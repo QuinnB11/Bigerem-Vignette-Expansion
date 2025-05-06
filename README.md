@@ -1,4 +1,4 @@
-# BIGERGM Vignette Expansion (['PDF'](https://www.overleaf.com/read/brzmbtmjdytq#7005e6))
+# BIGERGM Vignette Expansion ([PDF Description](https://www.overleaf.com/read/brzmbtmjdytq#7005e6))
 
 This script demonstrates the use of the [`BIGERGM`](https://www.corneliusfritz.com/bigergm/articles/bigergm.html) R package to fit a block-informed exponential random graph model (ERGM) to a large real-world network dataset from Amazon product co-purchasing communities.
 
