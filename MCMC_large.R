@@ -131,7 +131,8 @@ res_infomap <- do.call(bigergm, c(base_args, list(
   use_infomap_python = TRUE
 )))
 
-# Display estimated coefficients
+# Display estimated coefficients (both are the same)
+print("Estimated Coefficents:")
 print(res_walktrap$est_between$coefficients)
 print(res_walktrap$est_within$coefficients)
 
